@@ -1,6 +1,6 @@
 # Valentine Asker Pro
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/GranitOrllati1/valentine-s-day-asker-interactive-experience)
 
 A modern full-stack application built with React, TypeScript, Tailwind CSS, and shadcn/ui, powered by Cloudflare Workers for seamless edge deployment. Features a responsive UI, API-first architecture, and production-ready tooling.
 
@@ -76,7 +76,7 @@ bun deploy
 
 This builds the app and deploys via Wrangler. Configure your `wrangler.jsonc` with account ID and secrets as needed.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/GranitOrllati1/valentine-s-day-asker-interactive-experience)
 
 **Manual Deployment Steps**:
 1. Login to Wrangler: `wrangler login`
